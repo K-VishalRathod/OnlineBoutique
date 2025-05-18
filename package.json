@@ -1,0 +1,16 @@
+{
+  "name": "online-boutique",
+  "version": "1.0.0",
+  "description": "This is a web application for online boutique",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "axios": "^1.9.0",
+    "mongodb": "^1.0.2"
+  },
+  "author": "Vishal Rathod and Sai Teja",
+  "license": "ISC"
+}
